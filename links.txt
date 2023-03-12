@@ -1,0 +1,44 @@
+1. //Domain Knowledge interview Questions !!
+https://singhneeruk.medium.com/domain-knowledge-interview-questions-674abb0f15b0
+
+2. js language module notes
+https://github.com/scaleracademy/Language-Module-Aug-2022
+
+3. js community
+https://www.recurse.com/
+
+4. JS loupe representator
+http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
+
+5. you dont know js book
+https://github.com/getify/You-Dont-Know-JS
+
+6. static vs dynamic language explanation
+https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7
+
+7. angular testing
+https://www.youtube.com/watch?v=FM8E-r6m624&ab_channel=Briebug
+
+8. AI writer
+https://rytr.me/
+
+9. AI writer 2
+https://sassbook.com/ai-writer
+
+10. Angular internal code
+https://github.com/angular/angular/tree/main/packages/common/src
+
+11. skillwise material
+https://tranquil-seatbelt-460.notion.site/ebe18c028c2c4b4bac0c03eae64842a4?v=51b0e778a4594e2c96d27f0643a73730
+
+12. DSA Cheatsheet
+https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/
+
+13. Angular interview Questions
+https://github.com/sudheerj/angular-interview-questions#what-happens-if-you-use-script-tag-inside-template
+https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions
+
+14. DSA practice and theory
+https://www.javatpoint.com/daa-algorithm
+
+15. 
